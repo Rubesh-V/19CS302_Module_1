@@ -1,5 +1,5 @@
 # EX 4 C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
-## DATE:29/04/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to read the age of a person and determine whether he is eligible for marriage (eligible if age ≥ 21).
 
