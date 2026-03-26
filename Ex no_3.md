@@ -1,5 +1,5 @@
 # EX 3 C program to find number of years based on principle,rate & simple interest.
-## DATE:29/04/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to find number of years based on principle,rate & simple interest.
 
