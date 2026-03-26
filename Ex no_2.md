@@ -1,5 +1,5 @@
 # EX 2 C program to check whether the attendance is PRESENT using simple if statement.
-## DATE:29/04/2025
+## DATE:25/03/2026
 ## AIM:
 To write a program to check whether the attendance is PRESENT using simple if statement.
 
